@@ -24,5 +24,6 @@ int main() {
     u1.userName = "srshoruv";
     u1.setPass("srshoruv30");
 
-    cout << u1.getPass();
+    cout << u1.getPass() << endl;
+    cout << u1.userName << endl;
 }
